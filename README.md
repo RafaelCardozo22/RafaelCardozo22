@@ -6,13 +6,13 @@
   <img align="center" alt="Rafael-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafael-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-──────────────────────────────────────────────────────────────────────୨
+──────────────────────────────────────────────────────────────────────────────────୨
 
 
 
 ![Rafael Cardozo GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelcardozo22&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelcardozo22&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-──────────────────────────────────────────────────────────────────────୨
+──────────────────────────────────────────────────────────────────────────────────୨
 
 *Social:*
 
