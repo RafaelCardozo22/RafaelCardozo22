@@ -1,4 +1,4 @@
-## Olá, Me chamo Rafael!
+## Olá, Me chamo Rafael! 😎
 
 *Linguagens que eu estou estudando no momento:*
 
